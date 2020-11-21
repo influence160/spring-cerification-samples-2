@@ -1,0 +1,37 @@
+{
+	"auctionInfo": [
+		{
+			"tradeId": 289554641769,
+			"itemData": {
+				"id": 424756272967,
+				"timestamp": 0,
+				"untradeable": false,
+				"resourceId": 0,
+				"owners": 0,
+				"cardsubtypeid": 0,
+				"lastSalePrice": 0,
+				"morale": 0,
+				"fitness": 0,
+				"injuryGames": 0,
+				"statsList": [],
+				"lifetimeStats": [],
+				"training": 0,
+				"contract": 0,
+				"suspension": 0,
+				"attributeList": [],
+				"pile": 0,
+				"nation": 0,
+				"resourceGameYear": 2021
+			},
+			"tradeState": "active",
+			"buyNowPrice": 300,
+			"currentBid": 200,
+			"watched": true,
+			"bidState": "highest",
+			"startingBid": 150,
+			"expires": 18,
+			"tradeIdStr": "289554641769",
+			"tradeOwner": false
+		}
+	]
+}
